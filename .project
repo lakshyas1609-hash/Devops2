@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>selenium</name>
+=======
+	<name>SELENIUM_AUTOMATION</name>
+>>>>>>> 5c342b76af006a12105d89baa0b1e1eda0c46ff2
 	<comment></comment>
 	<projects>
 	</projects>

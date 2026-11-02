@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>myproject</groupId>
@@ -5,6 +6,17 @@
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
     <dependency>
+=======
+
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>selenium.example</groupId>
+  <artifactId>SELENIUM_AUTOMATION</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+>>>>>>> 5c342b76af006a12105d89baa0b1e1eda0c46ff2
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
         <version>4.25.0</version>
@@ -15,7 +27,12 @@
         <artifactId>testng</artifactId>
         <version>7.10.2</version>
         <scope>test</scope>
+<<<<<<< HEAD
     </dependency>
 </dependencies>
+=======
+    </dependency></dependencies>
+
+>>>>>>> 5c342b76af006a12105d89baa0b1e1eda0c46ff2
 
 </project>
